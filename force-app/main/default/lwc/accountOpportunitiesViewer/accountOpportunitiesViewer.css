@@ -1,0 +1,25 @@
+/**
+ * Created by WERMI ADAMA 25/04/2025.
+ */
+ /* Ajout de marges autour des boutons */
+lightning-button {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+/* Style sur clic bouton */
+lightning-button:active {
+    transform: scale(0.95);
+    transition: transform 0.2s ease;
+}
+
+/* Style pour les messages d'erreur */
+.slds-text-color_error, .slds-theme_error {
+    font-weight: red;
+    font-size: 1rem;
+}
+
+/* Légères marges autour des datatables */
+lightning-datatable {
+    margin-top: 1rem;
+}
