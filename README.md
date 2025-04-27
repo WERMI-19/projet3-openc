@@ -14,9 +14,10 @@ Ce projet permet de :
 ## 📁Structure du projet
 
 - `force-app/main/default/classes/`
-  - Contrôleurs Apex (`AccountCasesController`, `AccountOpportunitiesController`, etc.)
+  - Contrôleurs Apex et classe de test pour chauqe classe principale
+  - (`AccountCasesController`, `AccountOpportunitiesController`, etc.)
 - `force-app/main/default/lwc/`
-  - Composants LWC :
+  - Les 2 Composants LWC contenant chacun 4 fichiers .js .html .css .xml:
     - `accountCasesSearcher`
     - `accountOpportunitiesViewer`
 
