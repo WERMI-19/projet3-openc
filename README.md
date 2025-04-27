@@ -19,10 +19,6 @@ Ce projet permet de :
   - Composants LWC :
     - `accountCasesSearcher`
     - `accountOpportunitiesViewer`
-- `config/`
-  - Configuration pour scratch org.
-- `.sfdx/`
-  - Métadonnées locales SFDX (A ignorées).
 
 ## 🚀 Technologies utilisées
 
@@ -42,7 +38,6 @@ Ce projet permet de :
 
 ## 📋 Notes
 
-- Les fichiers dans `.sfdx/` et `.vscode/` ne sont pas indispensables pour le déploiement.
 - Ce projet est un résumé à mon apprentissage sur Openclassroom et trailhead pour améliorer mes  compétences Salesforce LWC + Apex.
 
 ## ✍️ Auteur
